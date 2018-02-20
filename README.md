@@ -17,6 +17,14 @@ Collaborators
 
 - Florian Grothe
 
+Links
+-----
+
+- [Dockerhub Link](https://hub.docker.com/r/gersilex/terraform-opennebula/)
+- Hashicorp's Terraform [Dockerhub](https://hub.docker.com/r/hashicorp/terraform/) [GitHub](https://github.com/hashicorp/docker-hub-images/blob/master/terraform/Dockerfile-full)
+- Runtastic's OpenNebula Provider [GitHub](https://github.com/runtastic/terraform-provider-opennebula)
+- OpenNebula [Website](https://opennebula.org/) [GitHub](https://github.com/OpenNebula/one)
+
 License
 -------
 
