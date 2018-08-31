@@ -5,8 +5,8 @@ LABEL maintainer="Leroy Foerster <gersilex@gmail.com>"
 RUN apk add bzr
 
 # Install terraform provider by runtastic
-RUN go get -v github.com/runtastic/terraform-provider-opennebula && \
-    go install -v github.com/runtastic/terraform-provider-opennebula
+RUN go get -v github.com/immoweltgroup/terraform-provider-opennebula && \
+    go install -v github.com/immoweltgroup/terraform-provider-opennebula
 
 # Mount your terraform code into the WORKDIR
 WORKDIR /terraform
