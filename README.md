@@ -1,7 +1,7 @@
 Terraform-OpenNebula-Docker
 ===========================
 
-[This Dockerfile](https://github.com/gersilex/terraform-opennebula-provider-docker/blob/master/Dockerfile) builds upon the official terraform image by Hashicorp (including the build-tools of the 'full' version).
+[This Dockerfile](https://github.com/gersilex/terraform-opennebula-provider-docker/blob/master/runtastic-provider/Dockerfile) builds upon the official terraform image by Hashicorp (including the build-tools of the 'full' version).
 
 Additionally the OpenNebula provider by ImmoweltGroup is pulled and installed.
 
