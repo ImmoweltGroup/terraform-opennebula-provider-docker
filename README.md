@@ -22,7 +22,7 @@ Collaborators
 Links
 -----
 
-- this [Dockerhub](https://hub.docker.com/r/gersilex/terraform-opennebula/) [GitHub](https://github.com/gersilex/terraform-opennebula-provider-docker)
+- this [Dockerhub](https://hub.docker.com/r/gersilex/terraform-opennebula/) [GitHub](https://github.com/ImmoweltGroup/terraform-opennebula-provider-docker)
 - Hashicorp's Terraform [Dockerhub](https://hub.docker.com/r/hashicorp/terraform/) [GitHub](https://github.com/hashicorp/docker-hub-images/blob/master/terraform/Dockerfile-full)
 - OpenNebula [Website](https://opennebula.org/) [GitHub](https://github.com/OpenNebula/one)
 
